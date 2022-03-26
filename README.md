@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Lauris</h3>
-<h3 align="left">A passionate developer from Latvia 🇱🇻</h3>
+<h3 align="left">A developer from Latvia 🇱🇻</h3>
 
 - 👨‍💻 I’m currently working in [Keenthemes](https://keenthemes.com/)
 
